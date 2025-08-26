@@ -32,9 +32,9 @@
 
 ## 🚀 Projects  
 
-- 🔹 [Restaurant System (Java Multithreading)](https://github.com/VasuKrishna/restaurant-system)  
-- 🔹 [Virtual Assistant (Python)](https://github.com/VasuKrishna/virtual-assistant)  
-- 🔹 [Bank Calculations (Java)](https://github.com/VasuKrishna/bank-calculations)  
+- 🔹 [Restaurant System (Java Multithreading)](https://github.com/VASU-GATTE/restaurant-system)  
+- 🔹 [Virtual Assistant (Python)](https://github.com/VASU-GATTE/virtual-assistant)
+-  🔹 [Employee Management System (Java servlets,Jsp's)](https://github.com/VASU-GATTE/emp_management)  
 
 ---
 
