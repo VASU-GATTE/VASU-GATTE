@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm G. Vasu krishna</h1>
 <h3 align="center">A passionate Java Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu-gatte&label=Profile%20views&color=0e75b6&style=flat" alt="vasu-gatte" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vasu-gatte&label=Profile%20views&color=0e75b6&style=flat" alt="vasu-gatte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasu-gatte" alt="vasu-gatte" /></a> </p>
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=vasu-gatte)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasu-gatte" alt="vasu-gatte" /></a> </p>-->
+
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+</div>
+<div align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
