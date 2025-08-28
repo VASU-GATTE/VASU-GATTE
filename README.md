@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VasuKrishna&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VASU-GATTE&theme=dark&hide_border=false"/>
 </div>
 
 ---
