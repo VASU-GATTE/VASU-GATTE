@@ -71,12 +71,14 @@
 - Integrated multiple APIs for weather, news, and task automation
 - Implemented speech-to-text and text-to-speech functionalities
 
-### 🏦 [Banking System Calculator](https://github.com/VasuKrishna/bank-calculations)
-**Java | Financial Algorithms | Data Structures**
-- Developed comprehensive banking calculation system
-- Implemented compound interest, loan calculations, and investment planning
-- Optimized algorithms for high-performance financial computations
+### 👨‍💼 [Employee Management System](https://github.com/VASU-GATTE/Emp_Management)
 
+**Java | OOP | Exception Handling | Layered Architecture**
+
+- Built a console-based system to manage employee records (CRUD operations)
+- Implemented layered design with Controller, Service, and Model classes
+- Designed custom exception handling with EmployeeNotFoundException
+- Applied OOP principles and interfaces for clean, modular, and maintainable code
 ---
 
 ## 🎓 Professional Development
