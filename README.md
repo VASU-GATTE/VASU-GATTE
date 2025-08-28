@@ -56,13 +56,16 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ [Restaurant Management System](https://github.com/VasuKrishna/restaurant-system)
-**Java | Multithreading | OOP**
-- Implemented concurrent order processing using Java multithreading
-- Designed efficient queue management system for restaurant operations
-- Applied SOLID principles for maintainable and scalable code architecture
+## 📚 [Library Management System](https://github.com/VASU-GATTE/Library_Management_System)
 
-### 🤖 [AI Virtual Assistant](https://github.com/VasuKrishna/virtual-assistant)
+**Java | JSP | Hibernate | MySQL**
+
+- Developed a web-based system for managing books, users, and transactions
+- Implemented book issue/return with real-time availability tracking
+- Designed role-based authentication for Admin and Users
+- Utilized Hibernate ORM with MySQL for efficient data handling
+
+### 🤖 [AI Virtual Assistant](https://github.com/VASU-GATTE/Virtual_Assistant_using_Python-Nlp_and_LLMs)
 **Python | AI/ML | Voice Recognition**
 - Built intelligent voice-activated assistant with natural language processing
 - Integrated multiple APIs for weather, news, and task automation
@@ -83,7 +86,6 @@
 - 🤖 **RPA Developer Foundation** — UiPath (Eduskills) *2024*
 - 📱 **Android Development** — Google Virtual Internship *2023*
 - 💻 **Full Stack Development** — BlackBucks & Excelr *2023*
-- 🎓 **Young Java Professional** — Infosys Springboard *2023*
 
 ### **Key Skills Developed**
 - **Problem Solving**: Advanced data structures & algorithms
@@ -106,9 +108,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-krishna-gatte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vasu-krishna-gatte)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasugatte8@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuKrishna)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VASU-GATTE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 </div>
